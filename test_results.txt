@@ -1,0 +1,10 @@
+Password Testing Log - Password Security Auditor
+
+cat                                ->  Very Weak
+password                     ->  Weak
+Password                     ->  Medium
+Password123               ->  Strong
+Password123!              ->  Very Strong
+12345678                     ->  Weak
+PASSWORD                   ->  Weak
+@@@@@@@             ->  Very Weak
